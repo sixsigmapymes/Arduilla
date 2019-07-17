@@ -1,4 +1,4 @@
 Arduilla
 ========
 
-Proyecto de aplicaciones par personas con capacidades limitadas
+Proyecto de aplicaciones para personas con capacidades limitadas
